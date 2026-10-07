@@ -23,3 +23,5 @@ Version 3.0 Features:
 15. Sales Reports
 16. Supplier Reports
 17. Product Category Management
+Branch Feature:
+18. Supplier Contact Details
