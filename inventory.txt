@@ -15,3 +15,11 @@ Version 2.0 Features:
 9. Sales Management
 10. Purchase Management
 11. Low Stock Detection
+
+Version 3.0 Features:
+12. Low Stock Notification
+13. Admin Dashboard
+14. Inventory Reports
+15. Sales Reports
+16. Supplier Reports
+17. Product Category Management
