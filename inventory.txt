@@ -8,3 +8,10 @@ Features:
 4. Update Product
 5. View Product
 6. Check Stock
+
+Version 2.0 Features:
+7. Supplier Management
+8. Stock Update
+9. Sales Management
+10. Purchase Management
+11. Low Stock Detection
