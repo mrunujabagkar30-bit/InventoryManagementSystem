@@ -1,0 +1,10 @@
+INVENTORY MANAGEMENT SYSTEM
+Version 1.0
+
+Features:
+1. Add Product
+2. Delete Product
+3. Search Product
+4. Update Product
+5. View Product
+6. Check Stock
